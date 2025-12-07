@@ -24,11 +24,7 @@
 		]
 	},
 	"mixins": [
-		"entity_block.mixins.json",
-		{
-			"config": "entity_block.client.mixins.json",
-			"environment": "client"
-		}
+		"entity_block.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.1",
