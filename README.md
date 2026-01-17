@@ -13,6 +13,9 @@ When a structure with an entity block is saved, the entity block itself is not s
 Instead, an entity and the block specified in the 'Turns Into' field is saved instead.
 This makes the structures usable in mods and datapacks without needing to have this mod as a dependency.
 
+This allows for placing entities into structures without always having consistent NBT data,
+and without needing to worry about entities moving around the structure.
+
 ![A screenshot of the Entity Block GUI, configured to spawn a zombie with a carved pumpkin on it's head, and to be replaced with a Diamond Block.](images/gui.png)
 
 ![A screenshot of a loaded structure, which has a zombie with a carved pumpkin on it's head, and a Diamond Block.](images/result.png)
