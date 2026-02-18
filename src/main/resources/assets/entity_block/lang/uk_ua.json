@@ -1,0 +1,14 @@
+{
+    "block.entity_block.entity_block": "Блок сутности",
+    "block.entity_block.entity_block.type": "ID сутности:",
+    "block.entity_block.entity_block.nbt": "NBT сутности:",
+    "block.entity_block.entity_block.offset": "Відносна позиція:",
+    "block.entity_block.entity_block.offset.x": "Відносна позиція X",
+    "block.entity_block.entity_block.offset.y": "Відносна позиція Y",
+    "block.entity_block.entity_block.offset.z": "Відносна позиція Z",
+    "block.entity_block.entity_block.final_state": "Перетворення на:",
+    "block.entity_block.entity_block.invalid_id": "Недісний ID сутности: «%s»",
+    "block.entity_block.entity_block.invalid_nbt": "Недійсний NBT сутности: «%s»",
+    "block.entity_block.entity_block.invalid_state": "Недісний ID блока: «%s»",
+    "modmenu.descriptionTranslation.entity_block": "Додає блок сутности, аби полегшити створення власних структур."
+}
